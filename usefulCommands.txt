@@ -1,0 +1,4 @@
+#widows power shell
+
+usbipd list
+usbipd bind --busid #buss number
